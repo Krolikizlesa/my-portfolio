@@ -18,4 +18,4 @@
 1. 
 2. 
 
-![Мое фото](Real Krolikizlesa.jpg)
+![Мое фото](images/real_Krolikizlesa.jpg)
