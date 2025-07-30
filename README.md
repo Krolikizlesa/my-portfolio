@@ -20,6 +20,7 @@
 1. [Персональное портфолио](https://krolikizlesa.github.io/my-portfolio/) - Сайт с информацией о моих целях и достижениях
 2. [Конвертер валют](https://krolikizlesa.github.io/currency-converter) - SPA приложение для конвертации валют (тестовое задание)
 
+
 ## Планы развития
 - Освоить продвинутые концепции Python и Django
 - Углубить знания в JavaScript и React
